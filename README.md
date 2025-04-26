@@ -1,7 +1,7 @@
 <!-- Fancy GitHub Profile README for Rahul Raj -->
 
 <h1 align="center">Hi 👋, I'm Rahul Raj</h1>
-<h3 align="center">An Aspiring IT Engineer | Web Developer | Blockchain Enthusiast</h3>
+<h3 align="center">An Aspiring IT Engineer | Web Developer | Data Analyst | Blockchain Enthusiast</h3> 
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -9,7 +9,7 @@
 - 🔭 Currently building **Blockchain-powered sustainability trackers** and **AI-driven applications**  
 - 🌱 Exploring **Web Development**, **Blockchain**, and **Machine Learning**  
 - 💬 Ask me about **Java, React, MySQL, DSA, Blockchain**  
-- 📫 How to reach me: **your-email@example.com**  
+- 📫 How to reach me: **rahul1492002@gmail.com**  
 - ⚡ Fun fact: *Coffee + Code = Perfect Day ☕💻*
 
 ---
@@ -53,9 +53,9 @@
 ### 🌐 Connect with me!
 
 <p align="center">
-  <a href="your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/rahul-raj-129751251/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Send-black?style=for-the-badge&logo=gmail&logoColor=red"></a>
+  <a href="mailto:your-rahul1492002@gmail.com"><img src="https://img.shields.io/badge/Email-Send-black?style=for-the-badge&logo=gmail&logoColor=red"></a>
 </p>
 
 ---
