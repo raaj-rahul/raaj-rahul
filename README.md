@@ -25,7 +25,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raaj-rahul&show_icons=true&theme=radical" alt="Rahul's GitHub Stats" height="180px"/>
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=raaj-rahul&show_icons=true&theme=radical" alt="Rahul's GitHub Stats" height="180px"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raaj-rahul&layout=compact&theme=radical" alt="Rahul's Top Languages" height="180px"/>
 </p>
 
