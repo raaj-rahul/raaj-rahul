@@ -47,6 +47,7 @@
 | **Netflix Clone** 🎥 | Beautiful streaming site UI. | React, TMDB API |
 | **Gesture Detection for Deaf Children** ✋ | AI model recognizing finger patterns. | Python, OpenCV |
 | **Blockchain Sustainability Tracker** 🔗 | Track supply chain sustainability with blockchain. | Solidity, Ethereum, AI |
+| **Ai Resume Ranking System** 🔗 | Ranks Resume based on the company description and criteria feed in the ATS |
 
 ---
 
