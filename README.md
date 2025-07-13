@@ -88,7 +88,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rahul-raj14/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://my-web-page-ruby.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href="mailto:rahul1492002@gmail.com"><img src="https://img.shields.io/badge/Email-Send-black?style=for-the-badge&logo=gmail&logoColor=red"></a>
 </p>
 
